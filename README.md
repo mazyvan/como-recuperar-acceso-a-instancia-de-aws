@@ -1,7 +1,7 @@
 # Recuperación de acceso a una Instancia de AWS
 
 Lista de pasos a seguir si pertiste acceso a una instancia.  
-Este documento también puede ser usado como referencia para generar más claves a un servidor al que si se tenga acceso, consulta únicamente los puntos `7` y `8`. 
+Este documento también puede ser usado como referencia para generar más claves a un servidor al que si se tengas acceso, consulta únicamente los puntos `7` y `8`. 
 
 **Importante**: Si se usará la dirección IP para establecer la conexión por ssh, es necesario asignar una `Elastic IP` o solo estar consiente de que la direccion IP asignada cambia cada que la instancia se reinicia.
 
